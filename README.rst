@@ -1,4 +1,5 @@
 ==================== Open Cash Drawer ====================
+
 Abre el cajón portamonedas sin imprimir ticket.
 
 Este repositorio fue probado con una impresora usb en windows 10.
@@ -21,5 +22,5 @@ Este repositorio fue probado con una impresora usb en windows 10.
     - Archivo.exe > Anclar a la barra de tareas
     - Archivo.exe > Cambiar nombre > Archivo.bat
     - Acceso Directo Barra de Tareas > Shift + Click Derecho > Propiedades:
-        > Destino > Archivo.bat
-        > Cambiar Icono
+        - Destino > Archivo.bat
+        - Cambiar Icono
