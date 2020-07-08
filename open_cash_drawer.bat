@@ -1,0 +1,1 @@
+python open_cash_drawer.py
